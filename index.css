@@ -309,8 +309,11 @@ img {
   }
 
   img {
-    height: 50%;
-    width: 50%;
+    width: 60%;
     padding-bottom: 2vh;
+  }
+
+  img.square {
+    width: 30%
   }
 }
