@@ -5,7 +5,7 @@ body * {
 
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 20px;  
+  font-size: 20px;
   color: darkslategray;
   margin: 0;
 }
@@ -15,20 +15,20 @@ nav {
   background-color: black;
   color: lightgray;
   text-align: center;
-  height: 5vh;
+  height: 30px;
 }
 
 div.intro {
   background-color: darkslategrey;
   color: white;
   text-align: center;
-  height: 15vh;
+  height: 50px;
 }
 
 div.contact-me {
   background-color: lightgrey;
   color: black;
-  height: 10vh;
+  height: 50px;
 }
 
 h2 {
