@@ -16,7 +16,7 @@ nav {
   justify-content: center;
   align-content: center;
   flex-wrap: wrap;
-  position: absolute;
+  position: fixed;
 }
 
 nav a {
@@ -40,6 +40,7 @@ main {
   line-height: 1.5;
   padding: 10px;
   height: 100vh;
+  padding-top:5vh;
 }
 
 h1 {
