@@ -32,7 +32,6 @@ nav a {
 nav a:hover {
   background-color: cyan;
   color: black;
-  font-size: 24px;
 }
 
 .intro {
@@ -76,7 +75,7 @@ div.contact-me {
 
 div.contact-me a{
   color: #00ffff;
-  padding-left: 15px;
+  padding-right: 15px;
 }
 
 h2 {
