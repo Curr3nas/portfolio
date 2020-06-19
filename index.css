@@ -315,4 +315,8 @@ img {
   img.square {
     width: 300px;
   }
+
+  img.trouvaille {
+    width: 45%
+  }
 }
