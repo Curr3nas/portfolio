@@ -308,7 +308,7 @@ img {
   }
 
   img {
-    width: 60%;
+    max-width: 60%;
     padding-bottom: 2vh;
   }
 
@@ -318,5 +318,9 @@ img {
 
   img.trouvaille {
     width: 45%
+  }
+
+  img.latin {
+    width: 30%
   }
 }
