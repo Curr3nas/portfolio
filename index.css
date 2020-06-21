@@ -43,6 +43,10 @@ nav a:hover {
   padding-top:5vh;
 }
 
+.intro p {
+  text-indent: 20px;
+}
+
 h1 {
   font-family: 'Open Sans';
   font-style: bold;
@@ -107,7 +111,7 @@ div.projects p {
 }
 
 section {
-  padding-bottom: 2vh;
+  padding-bottom: 2vh;;
 }
 
 section.project-2 {
@@ -143,6 +147,10 @@ section.project-4 a {
 
 img {
   width: 85%;
+}
+
+.links {
+  max-width: 95vw;
 }
 
 @media screen and (min-width: 700px) {
@@ -292,6 +300,11 @@ img {
     width: 60%;
     margin: auto;
     padding-bottom: 5vh;
+    font-size: 20px;
+  }
+
+  .contact-me {
+    font-size: 20px;
   }
 
   section {
@@ -305,6 +318,7 @@ img {
   .projects p {
     width: 50%;
     margin: auto;
+    font-size: 20px;
   }
 
   img {
